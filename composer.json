@@ -1,5 +1,5 @@
 {
-  "name": "jetfirphp/jobby",
+  "name": "jetfirephp/jobby",
   "license": "MIT",
   "description": "Manage all your cron jobs without modifying crontab. Handles locking, logging, error emails, and more.",
   "authors": [
